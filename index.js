@@ -11,6 +11,8 @@ const multiplicar = document.getElementById('boton*');
 const dividir = document.getElementById('boton/');
 const igual = document.getElementById('boton=');
 
+// -> que puto asco de codigo 
+
 let numero0 = document.getElementById('boton0'); // boton del nummero 0
 let numero1 = document.getElementById('boton1'); // boton del nummero 1
 let numero2 = document.getElementById('boton2'); // boton del nummero 2
